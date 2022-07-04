@@ -1,0 +1,65 @@
+.caixa {
+	background:#b6ce91;
+	padding:5px;
+	text-align:center;
+}
+
+.logo {
+	width:280px;
+	margin-top:30px;
+}
+
+.botoes {
+	display:block;
+	text-align:center;
+	padding:10px;
+	background:#b6ce91;
+
+}
+
+.iniciar-jogo {
+	
+	width:200px;
+	background-color:#0a3871;
+	color:white;
+	border-style:none;
+	border-radius:10px;
+	padding:20px;
+	cursor:pointer;
+	margin-top:55px;
+	font-family:'Ubuntu';
+	font-size:15px;
+}
+
+
+.adicionar-palavra {
+	
+	width:200px;
+	background-color:#0a3871;
+	color:white;
+	border-style:none;
+	border-radius:10px;
+	padding:20px;
+	cursor:pointer;
+	margin-top:10px;
+	font-family:'Ubuntu';
+	font-size:15px;
+}
+
+.rodape {
+	height:95px;
+	background-color:#b6ce91;
+	color:white;
+	text-align:center;
+	padding:10px;
+}
+
+.credito {
+	margin-top:30px;
+	margin-left:20px;
+}
+
+p {
+	font-family:'Ubuntu';
+	font-size: 14px;
+}
